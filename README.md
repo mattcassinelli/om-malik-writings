@@ -1,6 +1,40 @@
 # Om Malik Writings Repository
 
-A curated collection of Markdown documents from **Om Malik's** blog and other online publications.
+## Developer setup
+
+- **Type:** Project
+
+- **Git:** [https://github.com/mattcassinelli/om-malik-writings.git](https://github.com/mattcassinelli/om-malik-writings.git)
+
+- **Recent commits:**
+  - `4f39e9c` Initial commit: Om Malik writings repository (2026-03-04)
+
+- **Structure (snapshot):**
+  ```
+  .gitignore
+  README.md
+  articles/
+    README.md
+    ai-slop-is-the-new-spam.md
+    an-end-to-summer.md
+    conveniencing-ourselves-to-irrelevance.md
+    has-search-become-just-a-feature.md
+    how-ai-goes-to-work.md
+    i-want-my-vision-pro-tv.md
+    in-the-land-of-imperfect-data.md
+    is-waymo-worth-126-billion.md
+    living-in-the-petri-dish-of-the-future.md
+    mad-money-the-big-ai-race.md
+    openai-and-the-announcement-economy.md
+    our-algorithmic-grey-beige-world.md
+    our-crazy-unhinged-present.md
+    sam-claws-attention-back-openai.md
+    ...
+  other-publications.md
+  sources.md
+  ```
+
+- *Snapshot: 2026-03-05*
 
 ## About Om Malik
 
