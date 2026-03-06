@@ -85,3 +85,8 @@ The `articles/` folder contains full Markdown versions of essays from om.co, inc
 ---
 
 *Collected for personal reference and study. All content © Om Malik. Source: om.co and linked publications.*
+
+
+---
+
+**Note:** This repository is planned for deletion. Content has been migrated out of version control.
